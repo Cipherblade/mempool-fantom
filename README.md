@@ -1,6 +1,4 @@
-# Sample Hardhat Project
-
-A simplistic Fantom Opera tracking bot.
+# A simplistic Fantom Opera tracking bot
 
 This bot has been designed to respond to the minimal requirements for monitoring of a specific case.
 
